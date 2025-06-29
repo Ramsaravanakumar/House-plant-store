@@ -1,6 +1,6 @@
 {
   "name": "houseplant-store",
-  "homepage": "https://Ramsaravanakumar.github.io/houseplant-store",
+  "homepage": "https://houseplant-store.vercel.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
