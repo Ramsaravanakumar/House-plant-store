@@ -1,0 +1,12 @@
+/* src/pages/LandingPage.css */
+.landing {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("https://images.unsplash.com/photo-1587307461623-6a770b3a8541?auto=format&fit=crop&w=1470&q=80");
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
